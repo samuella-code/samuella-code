@@ -2,7 +2,7 @@
 - 👀 I’m currently a mobile app development, its frameworks and all it talks about. ...
 - 💞️ I’m looking to collaborate on with companies to work on projects...
 - 📫 How to reach me
-- Linkedin: https://www.linkedin.com/in/Eze-Oge Samuella
+- Linkedin: https://www.linkedin.com/in/Eze-Oge Samuella/
 
 <!---
 samuella-code/samuella-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
